@@ -1,4 +1,4 @@
-package config;
+package com.nitin.springboot.cloud.sleuthclient.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
